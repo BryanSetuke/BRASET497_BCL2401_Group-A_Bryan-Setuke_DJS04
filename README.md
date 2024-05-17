@@ -1,4 +1,4 @@
-# Book Connect - Web Components
+# [DJS04 Project] Book Connect - Web Components
 
 ## Overview
 Book Connect is a web application designed to help users browse and discover books. Initially developed as part of the DJS03 project, this iteration focuses on transforming key functionalities into reusable Web Components, enhancing the modularity and maintainability of the application.
